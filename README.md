@@ -1,19 +1,15 @@
-[![MasterHead](https://1.bp.blogspot....​)](https://i.gifer.com/QowP.gif)
+[![MasterHead](https://1.bp.blogspot....​)](https://rishavchanda.io​)
 <h1 align="center">Hi 👋, I'm Bhushan Dhawas</h1>
 <h3 align="center">A passionate Data Analyst.</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/13/2b/9d132bb9fb4f17c66b7a1dfab89e5bc4.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/13/2b/9d132bb9fb4f17c66b7a1dfab89e5bc4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan0016&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan0016" /> </p>
 
 - 🌱 I’m currently learning **Data Science Course (Newton School)**
 
-- 👨‍💻 All of my projects are available at [https://bhushan0016.github.io/My-Portfolio-website/](https://bhushan0016.github.io/My-Portfolio-website/)
-
 - 💬 Ask me about **SQL, Power BI, Excel, Python.**
 
 - 📫 How to reach me **bdhawas0016@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1JnQSHGASXFpuScJe3mZUdXC6AMjcxX-y](https://drive.google.com/drive/folders/1JnQSHGASXFpuScJe3mZUdXC6AMjcxX-y)
 
 - ⚡ Fun fact **I know how to make you laugh !!!**
 
