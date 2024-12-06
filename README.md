@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot....​)](https://rishavchanda.io​)
 <h1 align="center">Hi 👋, I'm Bhushan Dhawas</h1>
 <h3 align="center">A passionate Data Analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/13/2b/9d132bb9fb4f17c66b7a1dfab89e5bc4.gif">
